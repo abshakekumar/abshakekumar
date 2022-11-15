@@ -16,15 +16,13 @@
   
 <br />
 
-6+ years experience in frontend development.  
   
 <br/>  
 
-- 🌱 I’m currently learning Advance Typescript  
-- ❓ Ask me about anything related to javascript, react, vue  
+ 🌱 I’m currently learning Advance Typescript  
+ ❓ Ask me about anything related to javascript, react, vue  
 
 <br/>  
-
 
 ### Languages and Tools  
 <div align="left">  
@@ -48,8 +46,6 @@
 
 <br/>  
 
-
-### Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abshakekumar&hide_border=true&layout=compact" align="left" style="width: 100%" />
